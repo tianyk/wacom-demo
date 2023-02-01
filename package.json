@@ -1,0 +1,31 @@
+{
+  "name": "will3-sdk-for-ink-web-demo",
+  "productName": "WILL3 SDK for Ink - Web Demo",
+  "version": "4.0.0",
+  "description": "WILL 3 - Rendering, Manipulations and Serialization (Universal Ink Model) Demo",
+  "main": "main.js",
+  "dependencies": {
+    "digital-ink": "./wacom/digital-ink",
+    "dom-transformer": "./wacom/dom-transformer",
+    "js-ext": "./wacom/js-ext",
+    "jquery": "^3.5.1",
+    "jquery-contextmenu": "^2.9.2",
+    "clipper-lib": "^6.4.2",
+    "poly2tri": "^1.5.0",
+    "protobufjs": "^6.11.2",
+    "js-md5": "^0.7.3",
+    "jszip": "^3.9.1",
+    "long": "^5.2.0",
+    "rbush": "^3.0.1",
+    "gl": "^5.0.0",
+    "gl-matrix": "^3.4.3"
+  },
+  "scripts": {
+    "start": "npx http-server -o ."
+  },
+  "author": "Tzvetelin Vassilev",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
