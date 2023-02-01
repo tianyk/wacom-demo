@@ -9,6 +9,8 @@ For further details on using the SDK see https://developer-docs.wacom.com
 Navigate to: WILL SDK for ink
 References are included to the SDK sample code on GitHub
 
+https://github.com/Wacom-Developer/sdk-for-ink-web
+
 # RUN 
 
 ```
